@@ -2,3 +2,8 @@ name = "Jetting_P_WL"
 uuid = "e0fe1168-1cf9-4f27-b413-d73f5b8e345b"
 authors = ["gtevans <gtevans@protonmail.com>"]
 version = "0.1.0"
+
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+WaterLily = "ed894a53-35f9-47f1-b17f-85db9237eebd"
